@@ -1,6 +1,6 @@
 ## Minimal Laravel blog using Vue and GraphQL
 
-The goal is to explore GraphQL. This project is minimal. The company I work for, uses GraphQL, so let's rock it!
+The goal is to explore GraphQL. This project is minimal. The company I work for, uses GraphQL, so let's rock it.
 
 Looks good, and even with this small project I can see some benefits over REST.
 
