@@ -7,6 +7,7 @@ Looks good, and even with this small project I can see some benefits over REST.
 - You get the data you need
 - Lighthouse made it so simple to avoid N+1 problems, so at least for now, nothing to worry about.
 - It's EASIER , at least on the Frontend.
+- It looks easier even on the Backend, at least on this project. The Laravel code for the GraphQL API was ridiculously small.
 
 Let's see on the next bigger project!
 
